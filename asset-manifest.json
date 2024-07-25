@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fitness-dashboard/static/css/main.2a373b5d.css",
+    "main.js": "/fitness-dashboard/static/js/main.76d62c39.js",
+    "index.html": "/fitness-dashboard/index.html",
+    "main.2a373b5d.css.map": "/fitness-dashboard/static/css/main.2a373b5d.css.map",
+    "main.76d62c39.js.map": "/fitness-dashboard/static/js/main.76d62c39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a373b5d.css",
+    "static/js/main.76d62c39.js"
+  ]
+}
